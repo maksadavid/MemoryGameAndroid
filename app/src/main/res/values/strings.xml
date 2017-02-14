@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="score">"Score: "</string>
+    <string name="congratulations" formatted="false">"Congratulations! Your score is %d."</string>
+    <string name="enterYourName">"Please enter your name"</string>
+    <string name="newGameMenuTitle">"New game"</string>
+    <string name="ScoresMenuTitle">"Scores"</string>
+</resources>
